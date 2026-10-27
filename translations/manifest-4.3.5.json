@@ -1,0 +1,1479 @@
+{
+  "version": "4.3.5",
+  "supportedSourceHashes": [
+    "3cf6b5eeef1774354c1b22a8fbdfa3a93a429f64064cfc0d7ab11c609e8a1ab3",
+    "2af32341888e5a8b16d16270f4449ecf76eb67a02ca964f71b22ad745e345080"
+  ],
+  "forms": [
+    {
+      "name": "TDFCONFIGWINDOW",
+      "sha256": "75af7d1191fac3c1e2837e1eb126e8ba5a68205a606d5bdeb5eabae1ec95c787",
+      "strings": [
+        {
+          "offset": 120,
+          "length": 30,
+          "source": "Direct Folders Configuration"
+        },
+        {
+          "offset": 896,
+          "length": 22,
+          "source": "Automatic updates..."
+        },
+        {
+          "offset": 1131,
+          "length": 7,
+          "source": "Apply"
+        },
+        {
+          "offset": 1341,
+          "length": 8,
+          "source": "Cancel"
+        },
+        {
+          "offset": 1531,
+          "length": 4,
+          "source": "OK"
+        },
+        {
+          "offset": 1845,
+          "length": 22,
+          "source": " Organize Favorites "
+        },
+        {
+          "offset": 2593,
+          "length": 22,
+          "source": "Enter caption or use"
+        },
+        {
+          "offset": 2784,
+          "length": 8,
+          "source": "System"
+        },
+        {
+          "offset": 3176,
+          "length": 10,
+          "source": " Caption"
+        },
+        {
+          "offset": 3748,
+          "length": 14,
+          "source": "Folder icon:"
+        },
+        {
+          "offset": 4115,
+          "length": 7,
+          "source": " Path"
+        },
+        {
+          "offset": 4434,
+          "length": 34,
+          "source": "Double click to add/change icons"
+        },
+        {
+          "offset": 5355,
+          "length": 16,
+          "source": "When selected:"
+        },
+        {
+          "offset": 5551,
+          "length": 14,
+          "source": "Show content"
+        },
+        {
+          "offset": 5759,
+          "length": 6,
+          "source": "Open"
+        },
+        {
+          "offset": 6285,
+          "length": 55,
+          "source": "Navigate to this folder in file managers and dialogs."
+        },
+        {
+          "offset": 6700,
+          "length": 10,
+          "source": "Sort by:"
+        },
+        {
+          "offset": 6897,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 6952,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 6963,
+          "length": 7,
+          "source": " Name"
+        },
+        {
+          "offset": 6970,
+          "length": 7,
+          "source": " Size"
+        },
+        {
+          "offset": 6977,
+          "length": 7,
+          "source": " Type"
+        },
+        {
+          "offset": 6984,
+          "length": 16,
+          "source": " Date modified"
+        },
+        {
+          "offset": 7000,
+          "length": 15,
+          "source": " Date created"
+        },
+        {
+          "offset": 7226,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 7289,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 7308,
+          "length": 20,
+          "source": " ▼ Descending"
+        },
+        {
+          "offset": 7584,
+          "length": 33,
+          "source": " Alternative path (Shift+Click)"
+        },
+        {
+          "offset": 7741,
+          "length": 33,
+          "source": " Alternative path (Shift+Click)"
+        },
+        {
+          "offset": 8367,
+          "length": 11,
+          "source": "Set view:"
+        },
+        {
+          "offset": 8571,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 8625,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 8635,
+          "length": 8,
+          "source": " Tiles"
+        },
+        {
+          "offset": 8643,
+          "length": 10,
+          "source": " Details"
+        },
+        {
+          "offset": 8653,
+          "length": 7,
+          "source": " List"
+        },
+        {
+          "offset": 8660,
+          "length": 14,
+          "source": " Small Icons"
+        },
+        {
+          "offset": 8674,
+          "length": 15,
+          "source": " Medium Icons"
+        },
+        {
+          "offset": 8689,
+          "length": 14,
+          "source": " Large Icons"
+        },
+        {
+          "offset": 8703,
+          "length": 20,
+          "source": " Extra Large Icons"
+        },
+        {
+          "offset": 9059,
+          "length": 11,
+          "source": "Group by:"
+        },
+        {
+          "offset": 9261,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 9316,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 9327,
+          "length": 7,
+          "source": " None"
+        },
+        {
+          "offset": 9334,
+          "length": 7,
+          "source": " Name"
+        },
+        {
+          "offset": 9341,
+          "length": 7,
+          "source": " Size"
+        },
+        {
+          "offset": 9348,
+          "length": 7,
+          "source": " Type"
+        },
+        {
+          "offset": 9355,
+          "length": 16,
+          "source": " Date modified"
+        },
+        {
+          "offset": 9371,
+          "length": 15,
+          "source": " Date created"
+        },
+        {
+          "offset": 9598,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 9661,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 9680,
+          "length": 20,
+          "source": " ▼ Descending"
+        },
+        {
+          "offset": 9992,
+          "length": 41,
+          "source": "Show files in this folder as a submenu."
+        },
+        {
+          "offset": 10393,
+          "length": 11,
+          "source": "  Items: "
+        },
+        {
+          "offset": 10605,
+          "length": 17,
+          "source": " Sorted by name"
+        },
+        {
+          "offset": 10668,
+          "length": 17,
+          "source": " Sorted by name"
+        },
+        {
+          "offset": 10685,
+          "length": 15,
+          "source": " Newest first"
+        },
+        {
+          "offset": 10700,
+          "length": 15,
+          "source": " Oldest first"
+        },
+        {
+          "offset": 10715,
+          "length": 16,
+          "source": " Largest first"
+        },
+        {
+          "offset": 10731,
+          "length": 17,
+          "source": " Smallest first"
+        },
+        {
+          "offset": 11433,
+          "length": 116,
+          "source": "Show Markdown files in this folder as a submenu. Selecting a file will paste its contents into the current window."
+        },
+        {
+          "offset": 11670,
+          "length": 91,
+          "source": "Creates Sample.md file at the path above. \r\nInvoke DF menu in a text field to try it out."
+        },
+        {
+          "offset": 11844,
+          "length": 22,
+          "source": "Create a sample file"
+        },
+        {
+          "offset": 12191,
+          "length": 96,
+          "source": "Obsidian is the private and flexible writing app.\r\nClick to open website: http://obsidian.md\r\n"
+        },
+        {
+          "offset": 12370,
+          "length": 14,
+          "source": "Get Obsidian"
+        },
+        {
+          "offset": 13100,
+          "length": 7,
+          "source": " Path"
+        },
+        {
+          "offset": 13902,
+          "length": 15,
+          "source": "Insert folder"
+        },
+        {
+          "offset": 14118,
+          "length": 13,
+          "source": "Insert file"
+        },
+        {
+          "offset": 14336,
+          "length": 16,
+          "source": "Insert submenu"
+        },
+        {
+          "offset": 14558,
+          "length": 25,
+          "source": "Insert snippets submenu"
+        },
+        {
+          "offset": 14790,
+          "length": 18,
+          "source": "Insert separator"
+        },
+        {
+          "offset": 15322,
+          "length": 22,
+          "source": "Delete selected item"
+        },
+        {
+          "offset": 15543,
+          "length": 18,
+          "source": "Delete all items"
+        },
+        {
+          "offset": 15761,
+          "length": 30,
+          "source": "Open DF menu file in Notepad"
+        },
+        {
+          "offset": 15994,
+          "length": 22,
+          "source": "Delete selected item"
+        },
+        {
+          "offset": 16351,
+          "length": 30,
+          "source": "Save and show favorites menu"
+        },
+        {
+          "offset": 16451,
+          "length": 15,
+          "source": " Save && Test"
+        },
+        {
+          "offset": 17516,
+          "length": 11,
+          "source": " Options "
+        },
+        {
+          "offset": 17677,
+          "length": 6,
+          "source": "Misc"
+        },
+        {
+          "offset": 17971,
+          "length": 12,
+          "source": "Activation"
+        },
+        {
+          "offset": 18280,
+          "length": 9,
+          "source": "Display"
+        },
+        {
+          "offset": 18573,
+          "length": 14,
+          "source": "File Dialogs"
+        },
+        {
+          "offset": 19021,
+          "length": 21,
+          "source": "Show Favorites menu"
+        },
+        {
+          "offset": 19136,
+          "length": 12,
+          "source": "Favorites:"
+        },
+        {
+          "offset": 19678,
+          "length": 13,
+          "source": "No modifier"
+        },
+        {
+          "offset": 19773,
+          "length": 87,
+          "source": "Double-click in an empty area of Explorer or file dialogs to open the favorites menu."
+        },
+        {
+          "offset": 19944,
+          "length": 15,
+          "source": " Double click"
+        },
+        {
+          "offset": 20089,
+          "length": 107,
+          "source": "Open the favorites menu by clicking the middle mouse button on an empty area in Explorer or file dialogs."
+        },
+        {
+          "offset": 20366,
+          "length": 22,
+          "source": " Middle button click"
+        },
+        {
+          "offset": 20421,
+          "length": 23,
+          "source": " Ignore middle button"
+        },
+        {
+          "offset": 20444,
+          "length": 22,
+          "source": " Middle button click"
+        },
+        {
+          "offset": 20466,
+          "length": 29,
+          "source": " Ctrl + middle button click"
+        },
+        {
+          "offset": 20495,
+          "length": 30,
+          "source": " Shift + middle button click"
+        },
+        {
+          "offset": 21082,
+          "length": 18,
+          "source": "Show Recent menu"
+        },
+        {
+          "offset": 21194,
+          "length": 9,
+          "source": "Recent:"
+        },
+        {
+          "offset": 21734,
+          "length": 13,
+          "source": "No modifier"
+        },
+        {
+          "offset": 22395,
+          "length": 26,
+          "source": " Load at Windows startup"
+        },
+        {
+          "offset": 22829,
+          "length": 25,
+          "source": "Number or recent items:"
+        },
+        {
+          "offset": 23015,
+          "length": 31,
+          "source": "Menu item length, characters:"
+        },
+        {
+          "offset": 24294,
+          "length": 23,
+          "source": "Application-specific:"
+        },
+        {
+          "offset": 24490,
+          "length": 30,
+          "source": " Show recent folders submenu"
+        },
+        {
+          "offset": 25330,
+          "length": 18,
+          "source": "Open folders in:"
+        },
+        {
+          "offset": 25589,
+          "length": 21,
+          "source": "Default application"
+        },
+        {
+          "offset": 25627,
+          "length": 10,
+          "source": "Explorer"
+        },
+        {
+          "offset": 25637,
+          "length": 8,
+          "source": "Custom"
+        },
+        {
+          "offset": 26218,
+          "length": 11,
+          "source": "Set view:"
+        },
+        {
+          "offset": 26456,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 26466,
+          "length": 8,
+          "source": " Tiles"
+        },
+        {
+          "offset": 26474,
+          "length": 10,
+          "source": " Details"
+        },
+        {
+          "offset": 26484,
+          "length": 7,
+          "source": " List"
+        },
+        {
+          "offset": 26491,
+          "length": 14,
+          "source": " Small Icons"
+        },
+        {
+          "offset": 26505,
+          "length": 15,
+          "source": " Medium Icons"
+        },
+        {
+          "offset": 26520,
+          "length": 14,
+          "source": " Large Icons"
+        },
+        {
+          "offset": 26534,
+          "length": 20,
+          "source": " Extra Large Icons"
+        },
+        {
+          "offset": 27042,
+          "length": 23,
+          "source": "&Set size visually..."
+        },
+        {
+          "offset": 27364,
+          "length": 15,
+          "source": " Resize to:  "
+        },
+        {
+          "offset": 28666,
+          "length": 10,
+          "source": "Sorting:"
+        },
+        {
+          "offset": 28870,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 28914,
+          "length": 11,
+          "source": " Default "
+        },
+        {
+          "offset": 28925,
+          "length": 7,
+          "source": " Name"
+        },
+        {
+          "offset": 28932,
+          "length": 7,
+          "source": " Size"
+        },
+        {
+          "offset": 28939,
+          "length": 7,
+          "source": " Type"
+        },
+        {
+          "offset": 28946,
+          "length": 16,
+          "source": " Date modified"
+        },
+        {
+          "offset": 28962,
+          "length": 15,
+          "source": " Date created"
+        },
+        {
+          "offset": 29178,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 29230,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 29249,
+          "length": 20,
+          "source": " ▼ Descending"
+        },
+        {
+          "offset": 29352,
+          "length": 176,
+          "source": "Enable the file dialog to instantly navigate to the currently open folder \r\nin Explorer, Total Commander, or Directory Opus. \r\nJust switch to the desired file manager window."
+        },
+        {
+          "offset": 29611,
+          "length": 69,
+          "source": " Switching to a file manager opens its active folder in the dialog "
+        },
+        {
+          "offset": 30111,
+          "length": 69,
+          "source": " Right-click the Close button to make any window stay always on top"
+        },
+        {
+          "offset": 30401,
+          "length": 18,
+          "source": " Show Info Panel"
+        },
+        {
+          "offset": 30557,
+          "length": 10,
+          "source": "Snippets"
+        },
+        {
+          "offset": 30751,
+          "length": 16,
+          "source": "Markdown Files"
+        },
+        {
+          "offset": 31064,
+          "length": 20,
+          "source": "Show snippets menu"
+        },
+        {
+          "offset": 31383,
+          "length": 125,
+          "source": "This menu displays Markdown files from the specified folder. \r\nSelecting a file pastes its content into the current window."
+        },
+        {
+          "offset": 31794,
+          "length": 72,
+          "source": "Enable the menu by pressing the selected key twice in quick succession"
+        },
+        {
+          "offset": 31950,
+          "length": 31,
+          "source": " Activate by double-pressing:"
+        },
+        {
+          "offset": 32683,
+          "length": 21,
+          "source": "Attachments folder:"
+        },
+        {
+          "offset": 33458,
+          "length": 24,
+          "source": "Markdown files folder:"
+        },
+        {
+          "offset": 34128,
+          "length": 91,
+          "source": "Creates Sample.md file at the path above. \r\nInvoke DF menu in a text field to try it out."
+        },
+        {
+          "offset": 34303,
+          "length": 22,
+          "source": "Create a sample file"
+        },
+        {
+          "offset": 34715,
+          "length": 30,
+          "source": "at the specified path above."
+        },
+        {
+          "offset": 35025,
+          "length": 96,
+          "source": "Obsidian is the private and flexible writing app.\r\nClick to open website: http://obsidian.md\r\n"
+        },
+        {
+          "offset": 35205,
+          "length": 19,
+          "source": "Download Obsidian"
+        },
+        {
+          "offset": 35607,
+          "length": 60,
+          "source": "– a versatile application for editing Markdown files."
+        },
+        {
+          "offset": 36135,
+          "length": 54,
+          "source": "Assign a keyboard shortcut to open the snippets menu"
+        },
+        {
+          "offset": 36273,
+          "length": 10,
+          "source": " Hotkey:"
+        },
+        {
+          "offset": 36961,
+          "length": 13,
+          "source": "No modifier"
+        },
+        {
+          "offset": 37069,
+          "length": 14,
+          "source": "Applications"
+        },
+        {
+          "offset": 42190,
+          "length": 5,
+          "source": "App"
+        },
+        {
+          "offset": 42460,
+          "length": 6,
+          "source": "Path"
+        },
+        {
+          "offset": 42820,
+          "length": 70,
+          "source": " Enable (resize dialog, set view, rebound to the recently used file)"
+        },
+        {
+          "offset": 43098,
+          "length": 14,
+          "source": "Navigate to:"
+        },
+        {
+          "offset": 43323,
+          "length": 19,
+          "source": " Last used folder"
+        },
+        {
+          "offset": 43385,
+          "length": 19,
+          "source": " Last used folder"
+        },
+        {
+          "offset": 43404,
+          "length": 19,
+          "source": " Specified folder"
+        },
+        {
+          "offset": 43423,
+          "length": 17,
+          "source": " Default folder"
+        },
+        {
+          "offset": 43947,
+          "length": 11,
+          "source": "Set view:"
+        },
+        {
+          "offset": 44163,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 44211,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 44221,
+          "length": 8,
+          "source": " Tiles"
+        },
+        {
+          "offset": 44229,
+          "length": 10,
+          "source": " Details"
+        },
+        {
+          "offset": 44239,
+          "length": 7,
+          "source": " List"
+        },
+        {
+          "offset": 44246,
+          "length": 14,
+          "source": " Small Icons"
+        },
+        {
+          "offset": 44260,
+          "length": 15,
+          "source": " Medium Icons"
+        },
+        {
+          "offset": 44275,
+          "length": 14,
+          "source": " Large Icons"
+        },
+        {
+          "offset": 44289,
+          "length": 20,
+          "source": " Extra Large Icons"
+        },
+        {
+          "offset": 44485,
+          "length": 10,
+          "source": "Sort by:"
+        },
+        {
+          "offset": 44727,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 44737,
+          "length": 7,
+          "source": " Name"
+        },
+        {
+          "offset": 44744,
+          "length": 7,
+          "source": " Size"
+        },
+        {
+          "offset": 44751,
+          "length": 7,
+          "source": " Type"
+        },
+        {
+          "offset": 44758,
+          "length": 16,
+          "source": " Date modified"
+        },
+        {
+          "offset": 44774,
+          "length": 15,
+          "source": " Date created"
+        },
+        {
+          "offset": 44866,
+          "length": 16,
+          "source": "Sort direction"
+        },
+        {
+          "offset": 45011,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 45071,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 45090,
+          "length": 20,
+          "source": " ▼ Descending"
+        },
+        {
+          "offset": 45743,
+          "length": 17,
+          "source": "Recent folders:"
+        },
+        {
+          "offset": 46091,
+          "length": 15,
+          "source": "Recent files:"
+        },
+        {
+          "offset": 46267,
+          "length": 48,
+          "source": " Don't track this application's recent folders"
+        },
+        {
+          "offset": 46522,
+          "length": 11,
+          "source": "Group by:"
+        },
+        {
+          "offset": 46745,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 46800,
+          "length": 10,
+          "source": " Default"
+        },
+        {
+          "offset": 46810,
+          "length": 7,
+          "source": " None"
+        },
+        {
+          "offset": 46817,
+          "length": 7,
+          "source": " Name"
+        },
+        {
+          "offset": 46824,
+          "length": 7,
+          "source": " Size"
+        },
+        {
+          "offset": 46831,
+          "length": 7,
+          "source": " Type"
+        },
+        {
+          "offset": 46838,
+          "length": 16,
+          "source": " Date modified"
+        },
+        {
+          "offset": 46854,
+          "length": 15,
+          "source": " Date created"
+        },
+        {
+          "offset": 46951,
+          "length": 16,
+          "source": "Sort direction"
+        },
+        {
+          "offset": 47106,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 47170,
+          "length": 19,
+          "source": " ▲ Ascending"
+        },
+        {
+          "offset": 47189,
+          "length": 20,
+          "source": " ▼ Descending"
+        },
+        {
+          "offset": 48307,
+          "length": 5,
+          "source": "Add"
+        },
+        {
+          "offset": 48504,
+          "length": 8,
+          "source": "Remove"
+        },
+        {
+          "offset": 48718,
+          "length": 12,
+          "source": "Remove All"
+        },
+        {
+          "offset": 49091,
+          "length": 12,
+          "source": "Places Bar"
+        },
+        {
+          "offset": 49234,
+          "length": 254,
+          "source": "When you open the Open or Save dialog boxes in the Windows XP, you will see the My Places bar along the left side of the dialog box. The buttons on the bar will give you quick access to locations on your hard drive and on your network, if you have one."
+        },
+        {
+          "offset": 50483,
+          "length": 9,
+          "source": "Desktop"
+        },
+        {
+          "offset": 50492,
+          "length": 11,
+          "source": "Favorites"
+        },
+        {
+          "offset": 50503,
+          "length": 14,
+          "source": "My Documents"
+        },
+        {
+          "offset": 50517,
+          "length": 10,
+          "source": "My Music"
+        },
+        {
+          "offset": 50527,
+          "length": 13,
+          "source": "My Computer"
+        },
+        {
+          "offset": 50540,
+          "length": 22,
+          "source": "Network Neighborhood"
+        },
+        {
+          "offset": 50562,
+          "length": 9,
+          "source": "History"
+        },
+        {
+          "offset": 50571,
+          "length": 13,
+          "source": "My Pictures"
+        },
+        {
+          "offset": 50584,
+          "length": 18,
+          "source": "Recent Documents"
+        },
+        {
+          "offset": 50792,
+          "length": 9,
+          "source": "Desktop"
+        },
+        {
+          "offset": 50801,
+          "length": 11,
+          "source": "Favorites"
+        },
+        {
+          "offset": 50812,
+          "length": 14,
+          "source": "My Documents"
+        },
+        {
+          "offset": 50826,
+          "length": 10,
+          "source": "My Music"
+        },
+        {
+          "offset": 50836,
+          "length": 13,
+          "source": "My Computer"
+        },
+        {
+          "offset": 50849,
+          "length": 22,
+          "source": "Network Neighborhood"
+        },
+        {
+          "offset": 50871,
+          "length": 9,
+          "source": "History"
+        },
+        {
+          "offset": 50880,
+          "length": 13,
+          "source": "My Pictures"
+        },
+        {
+          "offset": 50893,
+          "length": 18,
+          "source": "Recent Documents"
+        },
+        {
+          "offset": 51101,
+          "length": 9,
+          "source": "Desktop"
+        },
+        {
+          "offset": 51110,
+          "length": 11,
+          "source": "Favorites"
+        },
+        {
+          "offset": 51121,
+          "length": 14,
+          "source": "My Documents"
+        },
+        {
+          "offset": 51135,
+          "length": 10,
+          "source": "My Music"
+        },
+        {
+          "offset": 51145,
+          "length": 13,
+          "source": "My Computer"
+        },
+        {
+          "offset": 51158,
+          "length": 22,
+          "source": "Network Neighborhood"
+        },
+        {
+          "offset": 51180,
+          "length": 9,
+          "source": "History"
+        },
+        {
+          "offset": 51189,
+          "length": 13,
+          "source": "My Pictures"
+        },
+        {
+          "offset": 51202,
+          "length": 18,
+          "source": "Recent Documents"
+        },
+        {
+          "offset": 51410,
+          "length": 9,
+          "source": "Desktop"
+        },
+        {
+          "offset": 51419,
+          "length": 11,
+          "source": "Favorites"
+        },
+        {
+          "offset": 51430,
+          "length": 14,
+          "source": "My Documents"
+        },
+        {
+          "offset": 51444,
+          "length": 10,
+          "source": "My Music"
+        },
+        {
+          "offset": 51454,
+          "length": 13,
+          "source": "My Computer"
+        },
+        {
+          "offset": 51467,
+          "length": 22,
+          "source": "Network Neighborhood"
+        },
+        {
+          "offset": 51489,
+          "length": 9,
+          "source": "History"
+        },
+        {
+          "offset": 51498,
+          "length": 13,
+          "source": "My Pictures"
+        },
+        {
+          "offset": 51511,
+          "length": 18,
+          "source": "Recent Documents"
+        },
+        {
+          "offset": 51719,
+          "length": 9,
+          "source": "Desktop"
+        },
+        {
+          "offset": 51728,
+          "length": 11,
+          "source": "Favorites"
+        },
+        {
+          "offset": 51739,
+          "length": 14,
+          "source": "My Documents"
+        },
+        {
+          "offset": 51753,
+          "length": 10,
+          "source": "My Music"
+        },
+        {
+          "offset": 51763,
+          "length": 13,
+          "source": "My Computer"
+        },
+        {
+          "offset": 51776,
+          "length": 22,
+          "source": "Network Neighborhood"
+        },
+        {
+          "offset": 51798,
+          "length": 9,
+          "source": "History"
+        },
+        {
+          "offset": 51807,
+          "length": 13,
+          "source": "My Pictures"
+        },
+        {
+          "offset": 51820,
+          "length": 18,
+          "source": "Recent Documents"
+        },
+        {
+          "offset": 51965,
+          "length": 11,
+          "source": "Browse..."
+        },
+        {
+          "offset": 52135,
+          "length": 11,
+          "source": "Browse..."
+        },
+        {
+          "offset": 52305,
+          "length": 11,
+          "source": "Browse..."
+        },
+        {
+          "offset": 52475,
+          "length": 11,
+          "source": "Browse..."
+        },
+        {
+          "offset": 52645,
+          "length": 11,
+          "source": "Browse..."
+        },
+        {
+          "offset": 52816,
+          "length": 26,
+          "source": "Enable custom places bar"
+        },
+        {
+          "offset": 205289,
+          "length": 11,
+          "source": "All files"
+        },
+        {
+          "offset": 205391,
+          "length": 13,
+          "source": "Executables"
+        },
+        {
+          "offset": 205491,
+          "length": 16,
+          "source": "Text documents"
+        },
+        {
+          "offset": 205581,
+          "length": 13,
+          "source": "Image files"
+        },
+        {
+          "offset": 205722,
+          "length": 15,
+          "source": "Insert Folder"
+        },
+        {
+          "offset": 205808,
+          "length": 18,
+          "source": "Insert Separator"
+        },
+        {
+          "offset": 205897,
+          "length": 17,
+          "source": "Insert Snippets"
+        },
+        {
+          "offset": 205969,
+          "length": 13,
+          "source": "Insert File"
+        },
+        {
+          "offset": 206063,
+          "length": 16,
+          "source": "Insert Submenu"
+        },
+        {
+          "offset": 206162,
+          "length": 8,
+          "source": "Delete"
+        },
+        {
+          "offset": 206277,
+          "length": 24,
+          "source": "Explorer, default view"
+        },
+        {
+          "offset": 206395,
+          "length": 21,
+          "source": "Explorer, full view"
+        },
+        {
+          "offset": 206492,
+          "length": 35,
+          "source": "Explorer, use this folder as root"
+        },
+        {
+          "offset": 206800,
+          "length": 11,
+          "source": "All files"
+        },
+        {
+          "offset": 206907,
+          "length": 13,
+          "source": "Executables"
+        },
+        {
+          "offset": 207003,
+          "length": 16,
+          "source": "Text documents"
+        },
+        {
+          "offset": 207096,
+          "length": 13,
+          "source": "Image files"
+        },
+        {
+          "offset": 207239,
+          "length": 9,
+          "source": "Submenu"
+        },
+        {
+          "offset": 207340,
+          "length": 11,
+          "source": "Separator"
+        },
+        {
+          "offset": 207417,
+          "length": 6,
+          "source": "File"
+        },
+        {
+          "offset": 207513,
+          "length": 12,
+          "source": "Clear menu"
+        },
+        {
+          "offset": 258878,
+          "length": 7,
+          "source": "Icons"
+        },
+        {
+          "offset": 259060,
+          "length": 14,
+          "source": "Applications"
+        }
+      ]
+    },
+    {
+      "name": "TFORMSIZE",
+      "sha256": "638b187209edfffd600f6244711cd7b262b75d37bcf12614e0f43bc9d1b50a62",
+      "strings": [
+        {
+          "offset": 535,
+          "length": 72,
+          "source": "Resize this window to match desired size of the standard file dialogs."
+        },
+        {
+          "offset": 660,
+          "length": 4,
+          "source": "OK"
+        },
+        {
+          "offset": 760,
+          "length": 8,
+          "source": "Cancel"
+        }
+      ]
+    }
+  ],
+  "runtimeStrings": [
+    {
+      "offset": 3084112,
+      "source": "Error parsing file: "
+    },
+    {
+      "offset": 3085464,
+      "source": "Separator"
+    },
+    {
+      "offset": 3085496,
+      "source": "Caption:"
+    },
+    {
+      "offset": 3087552,
+      "source": " Clear all menu items?"
+    },
+    {
+      "offset": 3088036,
+      "source": "Enter caption or use"
+    },
+    {
+      "offset": 3088092,
+      "source": "Caption:"
+    },
+    {
+      "offset": 3088528,
+      "source": "Sample snippet"
+    },
+    {
+      "offset": 3088576,
+      "source": "Sample snippet created"
+    },
+    {
+      "offset": 3088636,
+      "source": "Failed to create sample snippet"
+    },
+    {
+      "offset": 3089024,
+      "source": "Delete all items in the sub-menu?"
+    },
+    {
+      "offset": 3090456,
+      "source": "New snippets"
+    },
+    {
+      "offset": 3090496,
+      "source": "New folder"
+    },
+    {
+      "offset": 3090532,
+      "source": "New file"
+    },
+    {
+      "offset": 3090564,
+      "source": "New sub-menu"
+    },
+    {
+      "offset": 3091572,
+      "source": " Shutdown Direct Folders?"
+    },
+    {
+      "offset": 3092856,
+      "source": " Settings have been changed. Would you like to save?"
+    },
+    {
+      "offset": 3098556,
+      "source": "Please specify a directory"
+    },
+    {
+      "offset": 3103948,
+      "source": "Usually Explorer or DOpus"
+    },
+    {
+      "offset": 3171576,
+      "source": "Direct Folders Configuration"
+    }
+  ],
+  "expectedCounts": {
+    "forms": 275,
+    "runtime": 19,
+    "buttons": 26
+  }
+}

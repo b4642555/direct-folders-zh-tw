@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.bin
+*.zip
+*.log
+*.bak
+.backup*/
+backups/
+work/
+install-result.json
+verification.json
+__pycache__/

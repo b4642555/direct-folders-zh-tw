@@ -1,0 +1,745 @@
+{
+  "locale": "zh-TW",
+  "strings": [
+    {
+      "source": "Direct Folders Configuration",
+      "target": "Direct Folders 設定"
+    },
+    {
+      "source": "Automatic updates...",
+      "target": "自動更新…"
+    },
+    {
+      "source": "Apply",
+      "target": "套用"
+    },
+    {
+      "source": "Cancel",
+      "target": "取消"
+    },
+    {
+      "source": "OK",
+      "target": "確定"
+    },
+    {
+      "source": "Organize Favorites",
+      "target": "整理我的最愛"
+    },
+    {
+      "source": "Enter caption or use",
+      "target": "輸入名稱或使用"
+    },
+    {
+      "source": "System",
+      "target": "系統"
+    },
+    {
+      "source": "Caption",
+      "target": "名稱"
+    },
+    {
+      "source": "Caption:",
+      "target": "名稱："
+    },
+    {
+      "source": "Folder icon:",
+      "target": "資料夾圖示："
+    },
+    {
+      "source": "Path",
+      "target": "路徑"
+    },
+    {
+      "source": "Double click to add/change icons",
+      "target": "連按兩下以新增或變更圖示"
+    },
+    {
+      "source": "When selected:",
+      "target": "選取時："
+    },
+    {
+      "source": "Show content",
+      "target": "顯示內容"
+    },
+    {
+      "source": "Open",
+      "target": "開啟"
+    },
+    {
+      "source": "Navigate to this folder in file managers and dialogs.",
+      "target": "在檔案總管或檔案對話框中前往此資料夾。"
+    },
+    {
+      "source": "Sort by:",
+      "target": "排序依據："
+    },
+    {
+      "source": "Default",
+      "target": "預設"
+    },
+    {
+      "source": "Name",
+      "target": "名稱"
+    },
+    {
+      "source": "Size",
+      "target": "大小"
+    },
+    {
+      "source": "Type",
+      "target": "類型"
+    },
+    {
+      "source": "Date modified",
+      "target": "修改日期"
+    },
+    {
+      "source": "Date created",
+      "target": "建立日期"
+    },
+    {
+      "source": "▲ Ascending",
+      "target": "▲ 遞增"
+    },
+    {
+      "source": "▼ Descending",
+      "target": "▼ 遞減"
+    },
+    {
+      "source": "Alternative path (Shift+Click)",
+      "target": "替代路徑：Shift+點擊"
+    },
+    {
+      "source": "Set view:",
+      "target": "檢視方式："
+    },
+    {
+      "source": "Tiles",
+      "target": "並排"
+    },
+    {
+      "source": "Details",
+      "target": "詳細資料"
+    },
+    {
+      "source": "List",
+      "target": "清單"
+    },
+    {
+      "source": "Small Icons",
+      "target": "小圖示"
+    },
+    {
+      "source": "Medium Icons",
+      "target": "中圖示"
+    },
+    {
+      "source": "Large Icons",
+      "target": "大圖示"
+    },
+    {
+      "source": "Extra Large Icons",
+      "target": "特大圖示"
+    },
+    {
+      "source": "Group by:",
+      "target": "分組依據："
+    },
+    {
+      "source": "None",
+      "target": "無"
+    },
+    {
+      "source": "Show files in this folder as a submenu.",
+      "target": "在子選單中顯示此資料夾的檔案。"
+    },
+    {
+      "source": "Items:",
+      "target": "項目數："
+    },
+    {
+      "source": "Sorted by name",
+      "target": "依名稱排序"
+    },
+    {
+      "source": "Newest first",
+      "target": "最新優先"
+    },
+    {
+      "source": "Oldest first",
+      "target": "最舊優先"
+    },
+    {
+      "source": "Largest first",
+      "target": "最大優先"
+    },
+    {
+      "source": "Smallest first",
+      "target": "最小優先"
+    },
+    {
+      "source": "Show Markdown files in this folder as a submenu. Selecting a file will paste its contents into the current window.",
+      "target": "在子選單中顯示此資料夾的 Markdown 檔案。選取檔案後，會將內容貼到目前視窗。"
+    },
+    {
+      "source": "Creates Sample.md file at the path above. \r\nInvoke DF menu in a text field to try it out.",
+      "target": "在上方路徑建立 Sample.md 範例檔。\r\n在文字輸入欄位中開啟 Direct Folders 選單即可試用。"
+    },
+    {
+      "source": "Create a sample file",
+      "target": "建立範例檔"
+    },
+    {
+      "source": "Obsidian is the private and flexible writing app.\r\nClick to open website: http://obsidian.md\r\n",
+      "target": "Obsidian 是可在本機使用的彈性寫作工具。\r\n點擊開啟網站：http://obsidian.md\r\n"
+    },
+    {
+      "source": "Get Obsidian",
+      "target": "取得 Obsidian"
+    },
+    {
+      "source": "Insert folder",
+      "target": "插入資料夾"
+    },
+    {
+      "source": "Insert file",
+      "target": "插入檔案"
+    },
+    {
+      "source": "Insert submenu",
+      "target": "插入子選單"
+    },
+    {
+      "source": "Insert snippets submenu",
+      "target": "插入文字片段選單"
+    },
+    {
+      "source": "Insert separator",
+      "target": "插入分隔線"
+    },
+    {
+      "source": "Delete selected item",
+      "target": "刪除所選項目"
+    },
+    {
+      "source": "Delete all items",
+      "target": "刪除所有項目"
+    },
+    {
+      "source": "Open DF menu file in Notepad",
+      "target": "使用記事本開啟選單設定檔"
+    },
+    {
+      "source": "Save and show favorites menu",
+      "target": "儲存並顯示我的最愛選單"
+    },
+    {
+      "source": "Save && Test",
+      "target": "儲存並測試"
+    },
+    {
+      "source": "Options",
+      "target": "選項"
+    },
+    {
+      "source": "Misc",
+      "target": "其他"
+    },
+    {
+      "source": "Activation",
+      "target": "啟動方式"
+    },
+    {
+      "source": "Display",
+      "target": "顯示"
+    },
+    {
+      "source": "File Dialogs",
+      "target": "檔案對話框"
+    },
+    {
+      "source": "Show Favorites menu",
+      "target": "顯示我的最愛選單"
+    },
+    {
+      "source": "Favorites:",
+      "target": "我的最愛："
+    },
+    {
+      "source": "No modifier",
+      "target": "無輔助鍵"
+    },
+    {
+      "source": "Double-click in an empty area of Explorer or file dialogs to open the favorites menu.",
+      "target": "在檔案總管或檔案對話框的空白處連按兩下，開啟我的最愛選單。"
+    },
+    {
+      "source": "Double click",
+      "target": "連按兩下"
+    },
+    {
+      "source": "Open the favorites menu by clicking the middle mouse button on an empty area in Explorer or file dialogs.",
+      "target": "在檔案總管或檔案對話框的空白處按下滑鼠中鍵，開啟我的最愛選單。"
+    },
+    {
+      "source": "Middle button click",
+      "target": "按滑鼠中鍵"
+    },
+    {
+      "source": "Ignore middle button",
+      "target": "不使用滑鼠中鍵"
+    },
+    {
+      "source": "Ctrl + middle button click",
+      "target": "Ctrl + 滑鼠中鍵"
+    },
+    {
+      "source": "Shift + middle button click",
+      "target": "Shift + 滑鼠中鍵"
+    },
+    {
+      "source": "Show Recent menu",
+      "target": "顯示最近使用選單"
+    },
+    {
+      "source": "Recent:",
+      "target": "最近使用："
+    },
+    {
+      "source": "Load at Windows startup",
+      "target": "登入 Windows 時啟動"
+    },
+    {
+      "source": "Number or recent items:",
+      "target": "最近項目數："
+    },
+    {
+      "source": "Menu item length, characters:",
+      "target": "選單文字字數："
+    },
+    {
+      "source": "Application-specific:",
+      "target": "個別程式項目數："
+    },
+    {
+      "source": "Show recent folders submenu",
+      "target": "顯示最近資料夾子選單"
+    },
+    {
+      "source": "Open folders in:",
+      "target": "開啟資料夾使用："
+    },
+    {
+      "source": "Default application",
+      "target": "預設程式"
+    },
+    {
+      "source": "Explorer",
+      "target": "檔案總管"
+    },
+    {
+      "source": "Custom",
+      "target": "自訂"
+    },
+    {
+      "source": "&Set size visually...",
+      "target": "拖曳設定大小…"
+    },
+    {
+      "source": "Resize to:",
+      "target": "調整大小為："
+    },
+    {
+      "source": "Sorting:",
+      "target": "排序方式："
+    },
+    {
+      "source": "Enable the file dialog to instantly navigate to the currently open folder \r\nin Explorer, Total Commander, or Directory Opus. \r\nJust switch to the desired file manager window.",
+      "target": "切換至檔案總管、Total Commander 或 Directory Opus，\r\n檔案對話框便會前往該視窗目前開啟的資料夾。"
+    },
+    {
+      "source": "Switching to a file manager opens its active folder in the dialog",
+      "target": "切換至檔案總管時，同步檔案對話框的資料夾"
+    },
+    {
+      "source": "Right-click the Close button to make any window stay always on top",
+      "target": "右鍵點擊關閉按鈕，將視窗設為最上層顯示"
+    },
+    {
+      "source": "Show Info Panel",
+      "target": "顯示資訊面板"
+    },
+    {
+      "source": "Snippets",
+      "target": "文字片段"
+    },
+    {
+      "source": "Markdown Files",
+      "target": "Markdown 檔案"
+    },
+    {
+      "source": "Show snippets menu",
+      "target": "顯示文字片段選單"
+    },
+    {
+      "source": "This menu displays Markdown files from the specified folder. \r\nSelecting a file pastes its content into the current window.",
+      "target": "此選單會顯示指定資料夾中的 Markdown 檔案。\r\n選取檔案後，會將內容貼到目前視窗。"
+    },
+    {
+      "source": "Enable the menu by pressing the selected key twice in quick succession",
+      "target": "快速連按指定按鍵兩次，即可開啟選單"
+    },
+    {
+      "source": "Activate by double-pressing:",
+      "target": "連按兩次以啟動："
+    },
+    {
+      "source": "Attachments folder:",
+      "target": "附件資料夾："
+    },
+    {
+      "source": "Markdown files folder:",
+      "target": "Markdown 資料夾："
+    },
+    {
+      "source": "at the specified path above.",
+      "target": "於上方指定的路徑。"
+    },
+    {
+      "source": "Download Obsidian",
+      "target": "下載 Obsidian"
+    },
+    {
+      "source": "– a versatile application for editing Markdown files.",
+      "target": "— 功能多樣的 Markdown 編輯工具。"
+    },
+    {
+      "source": "Assign a keyboard shortcut to open the snippets menu",
+      "target": "設定開啟文字片段選單的快捷鍵"
+    },
+    {
+      "source": "Hotkey:",
+      "target": "快捷鍵："
+    },
+    {
+      "source": "Applications",
+      "target": "應用程式"
+    },
+    {
+      "source": "App",
+      "target": "程式"
+    },
+    {
+      "source": "Enable (resize dialog, set view, rebound to the recently used file)",
+      "target": "啟用：調整大小、設定檢視、定位最近檔案"
+    },
+    {
+      "source": "Navigate to:",
+      "target": "前往："
+    },
+    {
+      "source": "Last used folder",
+      "target": "上次使用的資料夾"
+    },
+    {
+      "source": "Specified folder",
+      "target": "指定資料夾"
+    },
+    {
+      "source": "Default folder",
+      "target": "預設資料夾"
+    },
+    {
+      "source": "Sort direction",
+      "target": "排序方向"
+    },
+    {
+      "source": "Recent folders:",
+      "target": "最近資料夾："
+    },
+    {
+      "source": "Recent files:",
+      "target": "最近檔案："
+    },
+    {
+      "source": "Don't track this application's recent folders",
+      "target": "不記錄此程式最近使用的資料夾"
+    },
+    {
+      "source": "Add",
+      "target": "新增"
+    },
+    {
+      "source": "Remove",
+      "target": "移除"
+    },
+    {
+      "source": "Remove All",
+      "target": "全部移除"
+    },
+    {
+      "source": "Places Bar",
+      "target": "位置列"
+    },
+    {
+      "source": "When you open the Open or Save dialog boxes in the Windows XP, you will see the My Places bar along the left side of the dialog box. The buttons on the bar will give you quick access to locations on your hard drive and on your network, if you have one.",
+      "target": "Windows XP 的開啟或儲存對話框左側會顯示位置列。您可以使用位置列按鈕，快速前往硬碟或網路上的位置。"
+    },
+    {
+      "source": "Desktop",
+      "target": "桌面"
+    },
+    {
+      "source": "Favorites",
+      "target": "我的最愛"
+    },
+    {
+      "source": "My Documents",
+      "target": "我的文件"
+    },
+    {
+      "source": "My Music",
+      "target": "我的音樂"
+    },
+    {
+      "source": "My Computer",
+      "target": "我的電腦"
+    },
+    {
+      "source": "Network Neighborhood",
+      "target": "網路芳鄰"
+    },
+    {
+      "source": "History",
+      "target": "歷程記錄"
+    },
+    {
+      "source": "My Pictures",
+      "target": "我的圖片"
+    },
+    {
+      "source": "Recent Documents",
+      "target": "最近的文件"
+    },
+    {
+      "source": "Browse...",
+      "target": "瀏覽…"
+    },
+    {
+      "source": "Enable custom places bar",
+      "target": "啟用自訂位置列"
+    },
+    {
+      "source": "All files",
+      "target": "所有檔案"
+    },
+    {
+      "source": "Executables",
+      "target": "可執行檔"
+    },
+    {
+      "source": "Text documents",
+      "target": "文字文件"
+    },
+    {
+      "source": "Image files",
+      "target": "圖片檔案"
+    },
+    {
+      "source": "Insert Folder",
+      "target": "插入資料夾"
+    },
+    {
+      "source": "Insert Separator",
+      "target": "插入分隔線"
+    },
+    {
+      "source": "Insert Snippets",
+      "target": "插入文字片段"
+    },
+    {
+      "source": "Insert File",
+      "target": "插入檔案"
+    },
+    {
+      "source": "Insert Submenu",
+      "target": "插入子選單"
+    },
+    {
+      "source": "Delete",
+      "target": "刪除"
+    },
+    {
+      "source": "Explorer, default view",
+      "target": "檔案總管：預設檢視"
+    },
+    {
+      "source": "Explorer, full view",
+      "target": "檔案總管：完整檢視"
+    },
+    {
+      "source": "Explorer, use this folder as root",
+      "target": "檔案總管：以此資料夾為根目錄"
+    },
+    {
+      "source": "Submenu",
+      "target": "子選單"
+    },
+    {
+      "source": "Separator",
+      "target": "分隔線"
+    },
+    {
+      "source": "File",
+      "target": "檔案"
+    },
+    {
+      "source": "Clear menu",
+      "target": "清空選單"
+    },
+    {
+      "source": "Icons",
+      "target": "圖示"
+    },
+    {
+      "source": "Resize this window to match desired size of the standard file dialogs.",
+      "target": "拖曳此視窗，設定檔案對話框的大小。"
+    },
+    {
+      "source": "Error parsing file: ",
+      "target": "讀取檔案失敗："
+    },
+    {
+      "source": " Clear all menu items?",
+      "target": "清空全部選單項目？"
+    },
+    {
+      "source": "Sample snippet",
+      "target": "範例文字片段"
+    },
+    {
+      "source": "Sample snippet created",
+      "target": "已建立範例文字片段"
+    },
+    {
+      "source": "Failed to create sample snippet",
+      "target": "無法建立範例文字片段"
+    },
+    {
+      "source": "Delete all items in the sub-menu?",
+      "target": "刪除子選單的所有項目？"
+    },
+    {
+      "source": "New snippets",
+      "target": "新增文字片段"
+    },
+    {
+      "source": "New folder",
+      "target": "新增資料夾"
+    },
+    {
+      "source": "New file",
+      "target": "新增檔案"
+    },
+    {
+      "source": "New sub-menu",
+      "target": "新增子選單"
+    },
+    {
+      "source": " Shutdown Direct Folders?",
+      "target": "結束 Direct Folders？"
+    },
+    {
+      "source": " Settings have been changed. Would you like to save?",
+      "target": "設定已變更，要儲存嗎？"
+    },
+    {
+      "source": "Please specify a directory",
+      "target": "請指定資料夾"
+    },
+    {
+      "source": "Usually Explorer or DOpus",
+      "target": "通常是檔案總管或 DOpus"
+    },
+    {
+      "source": "&Yes",
+      "target": "是"
+    },
+    {
+      "source": "&No",
+      "target": "否"
+    },
+    {
+      "source": "&Close",
+      "target": "關閉"
+    },
+    {
+      "source": "&Abort",
+      "target": "中止"
+    },
+    {
+      "source": "&Retry",
+      "target": "重試"
+    },
+    {
+      "source": "&Ignore",
+      "target": "略過"
+    },
+    {
+      "source": "&All",
+      "target": "全部"
+    },
+    {
+      "source": "N&o to All",
+      "target": "全部選否"
+    },
+    {
+      "source": "Yes to &All",
+      "target": "全部選是"
+    },
+    {
+      "source": "&Help",
+      "target": "說明"
+    },
+    {
+      "source": "Help",
+      "target": "說明"
+    },
+    {
+      "source": "Warning",
+      "target": "警告"
+    },
+    {
+      "source": "Error",
+      "target": "錯誤"
+    },
+    {
+      "source": "Information",
+      "target": "資訊"
+    },
+    {
+      "source": "Confirm",
+      "target": "確認"
+    },
+    {
+      "source": "Confirmation",
+      "target": "確認"
+    },
+    {
+      "source": "&Cancel",
+      "target": "取消"
+    },
+    {
+      "source": "Retry",
+      "target": "重試"
+    },
+    {
+      "source": "Close",
+      "target": "關閉"
+    },
+    {
+      "source": "&OK",
+      "target": "確定"
+    }
+  ]
+}
